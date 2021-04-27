@@ -74,3 +74,12 @@
     border-color: #033D55;
     color: white 
 }
+.footerBlue {
+    background-color: #033D55;
+    color: white;
+    width: 100%;
+}
+.footerText {
+    color: white;
+    text-align: center;
+}
