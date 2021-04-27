@@ -1,0 +1,76 @@
+.jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: left;
+    }
+.bryceBackground {
+    background-image: url(../Portfolio/images/bryce-header1.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbarImg {
+    width: 80px;
+    padding: 0px;
+}
+.jumbotronBlue {
+    background-color: #033D55;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.csHeader {
+    width: 100%;
+    padding: 10px;
+}
+.csImg {
+    width: 80%;
+    padding: 0;
+    align-content: center;
+}
+.csImg2 {
+    width: 100%;
+    padding: 0;  
+}
+.container2 {
+    width: 80%;
+}
+.containerBlue {
+    background-color: #033D55;
+    color: white
+}
+.card2 {
+    border: none;
+}
+.card3 {
+    border: none;
+    text-align: center;
+}
+.card4 {
+    width: 80%;
+}
+.container {
+    align-items: center;
+}
+.col-sm1 {
+    width: 60%
+}
+.col-sm2 {
+    width: 40%
+}
+.carousel-item {
+    width: 300px
+}
+.btn-blue {
+    background-color: #033D55;
+    border-color: #033D55;
+    color: white 
+}
